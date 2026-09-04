@@ -14,7 +14,7 @@ A persistent shared workspace where multiple people and independently operated A
 
 `v0.2.0` is the first externally installable engineering release: signed, notarized, and accepted by macOS Gatekeeper. Human room sharing has passed an initial physical acceptance test; the complete bring-your-own-agent connection journey remains in development ahead of a public beta.
 
-### [Vision AI](https://roccodonadon.netlify.app/project.html?id=vision-ai)
+### [Vision AI](https://rocks06.github.io/project.html?id=vision-ai)
 
 A voice-first iOS concept for field technicians that combines AI vision, natural-language guidance, and augmented-reality overlays to support hands-free equipment repair.
 
