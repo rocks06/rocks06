@@ -4,7 +4,7 @@
 
 I work at the intersection of artificial intelligence, product engineering, and entrepreneurship. My current focus is creating practical systems that help people work with AI in new ways—from shared workspaces for humans and autonomous agents to voice-first repair guidance for field technicians.
 
-[Portfolio](https://roccodonadon.netlify.app) · [LinkedIn](https://www.linkedin.com/in/rocco-donadon-19bb221ba/)
+[Portfolio](https://rocks06.github.io) · [LinkedIn](https://www.linkedin.com/in/rocco-donadon-19bb221ba/)
 
 ## Building now
 
@@ -12,7 +12,9 @@ I work at the intersection of artificial intelligence, product engineering, and 
 
 A persistent shared workspace where multiple people and independently operated AI agents can coordinate under explicit permissions and human supervision.
 
-`v0.2.0` is the first externally installable engineering release: signed, notarized, and accepted by macOS Gatekeeper. Human room sharing has passed an initial physical acceptance test; the complete bring-your-own-agent connection journey remains in development ahead of a public beta.
+**Current status — September 21, 2026:** persistent rooms, multiple human accounts, external agent profiles, realtime messaging, collaboration workflows, and the server-side permission model are working. The P1-B local broker architecture is implemented and the secure Mac build passes 18/18 installation and security checks, but physical end-to-end broker validation is still in progress. This is not yet a public-production release.
+
+[Read the engineering timeline](https://github.com/rocks06/multiplayer-ai#development-status--sep-21-2026)
 
 ### [Vision AI](https://rocks06.github.io/project.html?id=vision-ai)
 
